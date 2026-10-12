@@ -1,0 +1,29 @@
+# Jewellirium
+
+> Jewellirium is a Renaissance-inspired roguelike game with a gloomy atmosphere by Octanta Studio (Ukraine), made in Unity. The player is the heir to a jewelry workshop that hides dark secrets, performs operations on clients and pursues the Perfect Man, a human body fully encrusted with jewels, which is assembled through the progress of crafting on the alchemy table (formulas found out of 61). Core gameplay: the progression of crafting jewelry and trading with customers; in parallel the player feeds the prisoner and dodges the inspector. Languages: English, Ukrainian. Released in 2023 on mobile; on itch.io since 2026 (browser build and Android APK). Game page: https://octantastudio.itch.io/jewellirium
+>
+> Source note: the files follow the Android APK build, the most current version. The PC build is slightly older and can differ in details. Exact numbers are not given because they change between builds.
+
+## Overview
+- [README](README.md): facts, core gameplay and additions, premise, loop, progression, content warning, credits
+
+## Mechanics
+- [Day cycle](mechanics/day-cycle.md): time of day, night, mail, inspector, discoveries
+- [Bargaining](mechanics/bargaining.md): customers, wallets, the circle of 12 tools, triangles, special requests, returning customers
+- [Operations](mechanics/operations.md): operation tables, examination
+- [Alchemy table](mechanics/alchemy-table.md): slots, formulas, the list of 61 jewelry pieces
+- [Basement](mechanics/basement.md): prisoner, feeding, the undertaker
+
+## Content
+- [Characters](characters/characters.md): people and senders of letters
+- [Patron upgrades](upgrades/patron-upgrades.md): the approximate list of upgrades
+- [Rings](rings/rings.md): the ritual ring of the PC build
+- [Mail events](events/events.md): letters and special days
+- [Showcase](showcase/showcase.md): slots and passive bonuses
+
+## Interface
+- [Screens](interface/screens.md): the screens of the game, from the main menu to the patron's offer
+- [Media](media/README.md): screenshots
+
+## Reference
+- [Glossary](glossary.md): terms
