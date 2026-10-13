@@ -22,16 +22,16 @@ Related files: [README](../README.md), [day cycle](../mechanics/day-cycle.md), [
 
 ## Sets
 
-A set is a group of pieces in the showcase. The caption of the showcase shows "special offer" with the name of the set. The script names below are the names from the table in [alchemy table](../mechanics/alchemy-table.md). The pieces have no names in the game itself.
+A set is a group of pieces in the showcase. The caption of the showcase shows "special offer" with the name of the set. The pieces are listed as Jewel (confidential) with the number from the table in [alchemy table](../mechanics/alchemy-table.md) and their formula (units of material).
 
-| Set name | Pieces (script names) |
+| Set name | Pieces (Jewel (confidential), with formula) |
 |---|---|
-| Iron mask | koronka, shtanga, kaffa |
-| All-seeing eye | lense, ochki |
-| Magic of Rings | kolco, kolco2, sergi, persten |
-| Roses and grapes | bulavka, serga |
-| Blood Purification | zazhim, septum, brosh |
-| Armor | rondel, nakolen, nabedrennik |
-| Thinker | obruch, setka, pheronierka, venok |
-| Royal Blood | zazhim, septum, brosh, naomi, choker, medal |
-| Shine of Amethysts | microdermal, tonnel, naperstok |
+| Iron mask | Jewel (confidential) #2: 1 metal; Jewel (confidential) #6: 2 metal; Jewel (confidential) #10: 3 metal |
+| All-seeing eye | Jewel (confidential) #7: 2 precious; Jewel (confidential) #20: 1 metal, 1 precious, 2 semi-precious |
+| Magic of Rings | Jewel (confidential) #12: 1 metal, 2 semi-precious; Jewel (confidential) #13: 2 metal, 2 precious; Jewel (confidential) #18: 2 metal, 2 semi-precious; Jewel (confidential) #19: 1 metal, 3 precious |
+| Roses and grapes | Jewel (confidential) #8: 2 metal, 1 semi-precious; Jewel (confidential) #15: 2 metal, 1 precious, 1 semi-precious |
+| Blood Purification | Jewel (confidential) #1: 1 metal, 1 precious; Jewel (confidential) #9: 2 metal, 1 precious; Jewel (confidential) #16: 4 precious |
+| Armor | Jewel (confidential) #38: 3 metal, 1 precious, 1 semi-precious; Jewel (confidential) #51: 2 metal, 1 precious, 3 semi-precious; Jewel (confidential) #52: 5 metal, 1 semi-precious |
+| Thinker | Jewel (confidential) #27: 3 metal, 2 precious; Jewel (confidential) #28: 1 metal, 1 precious, 3 semi-precious; Jewel (confidential) #30: 5 precious; Jewel (confidential) #31: 5 metal |
+| Royal Blood | Jewel (confidential) #1: 1 metal, 1 precious; Jewel (confidential) #9: 2 metal, 1 precious; Jewel (confidential) #16: 4 precious; Jewel (confidential) #25: 1 metal, 2 precious, 1 semi-precious; Jewel (confidential) #26: 2 precious, 2 semi-precious; Jewel (confidential) #34: 2 metal, 1 precious, 2 semi-precious |
+| Shine of Amethysts | Jewel (confidential) #3: 1 semi-precious; Jewel (confidential) #14: 3 semi-precious; Jewel (confidential) #11: 1 metal, 1 precious, 1 semi-precious |
